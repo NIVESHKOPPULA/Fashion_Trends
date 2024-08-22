@@ -1,0 +1,5 @@
+open cmd from the folder where all this files are been located
+run following commands:
+first run --> fashiontrends_env/Scripts/Activate
+then run --> python manage.py runserver 80
+NOTE: runserver may varry  as per the available local server on the PC.
