@@ -1,6 +1,14 @@
 # Install react modules
 * 1 - cd frontend
 * 2 - npm install
+
+How to run
+* open cmd from the folder where all this files are been located
+run following commands:
+first run --> fashiontrends_env/Scripts/Activate
+then run --> python manage.py runserver 80
+NOTE: runserver may varry  as per the available local server on the PC.
+
 * SIGN IN
 ![sign in](https://github.com/user-attachments/assets/54d5d703-f860-4abd-adef-b975ceea75ed)
 SIGN UP
