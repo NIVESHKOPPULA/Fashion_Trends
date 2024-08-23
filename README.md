@@ -33,3 +33,6 @@ PAYMENT SCREEN
 SHOPPING CART
 ![shopping cart](https://github.com/user-attachments/assets/c0d61890-1a48-4d27-895f-fe34fda69848)
 
+OVERVIEW OF PROJECT
+![OVERVIEW OF PROJECT](https://github.com/user-attachments/assets/48b87b74-1a0f-4369-9751-1a66e1c5f3c8).
+
